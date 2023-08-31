@@ -1,0 +1,1 @@
+A = MSGbox("ERROR",16,"ERROR")
